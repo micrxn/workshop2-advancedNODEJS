@@ -1,0 +1,22 @@
+[
+  {
+    "id": "497a1b60-8e82-4143-95a5-f5109eb31a8f",
+    "username": "asdf",
+    "password": "$2a$08$CnMq4OBOWOKvxpiZPiNLAevOUk/3j5ZuJq33vH3xSsrGnuECGdbVO"
+  },
+  {
+    "id": "a9669670-59a8-4520-9280-0f8053be9941",
+    "username": "adsasdf",
+    "password": "$2a$08$3xNYgD3yq.CTa/mRjEtMkOA1sdJyoOfPLu4gswqiiW8GsmwZtz.0."
+  },
+  {
+    "id": "47267202-56a9-4f2c-ba27-a0b672a474fc",
+    "username": "testTest",
+    "password": "$2a$08$z2rS8jE1N2nN6KwtQRkH4u3shTk84QZ15DGmjQToToK.34B9TRfAu"
+  },
+  {
+    "id": "eda8101d-8d77-4e0d-982a-e55ad087674d",
+    "username": "testTest1",
+    "password": "$2a$08$K/Z5qI0ovvk8C6UJua4LWeCmDRWFW/E4SMJe9x/rXg/VXARRrkIAu"
+  }
+]
